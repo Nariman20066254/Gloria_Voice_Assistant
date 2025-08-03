@@ -1,0 +1,6 @@
+g4f==0.5.8.0
+Pillow==11.3.0
+PyAudio==0.2.14
+pygame==2.6.1
+silero_tts==0.0.5
+vosk==0.3.45
